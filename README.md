@@ -1,5 +1,4 @@
 # 🛒 SoftEngineer™ Flashsale Bot
-... (badges) ...
 
 ![Banner Bot](assets/banner_ASCII.png)
 
@@ -78,14 +77,7 @@ Run the main script from your terminal:
 This project is for educational purposes only. Using automation scripts on e-commerce platforms may violate their Terms of Service and could lead to account suspension. Use at your own risk.
 
 Author
-Muhammad Alfito (Sendjaa) Informatics Student @ UNJANI LinkedIn | Portfolio
+Softengineer (Sendjaa)
 
 
 ---
-
-### Tips for your Portfolio:
-* **Screenshots**: Once you have the bot running with the new ASCII banner, take a screenshot of your terminal and add it to the README under the "Features" section.
-* **License**: If you want to make it open-source, consider adding an **MIT License** file.
-* **GitHub Actions**: Since you are an Informatics student, mentioning that you use `Playwright` for "End-to-End Testing logic applied to automation" sounds very impressive to tech recruiters.
-
-Would you like me to help you draft the **LinkedIn post** to showcase this project?
