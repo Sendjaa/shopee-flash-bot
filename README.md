@@ -2,6 +2,7 @@
 ... (badges) ...
 
 ![Banner Bot](assets/banner_ASCII.png)
+
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Playwright](https://img.shields.io/badge/library-playwright-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-success.svg)
