@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# PyArmor Runtime
+dist/
+
+# Chrome Session & Personal Data
+user_data_bot/
+chrome_session/
+
+config.json
